@@ -105,7 +105,7 @@ python main.py
 
 ```
 ├── main.py                  # Main application (GUI + algorithms)
-└── README.md              # Project documentation
+└── README.md                # Project documentation
 ```
 
 ---
