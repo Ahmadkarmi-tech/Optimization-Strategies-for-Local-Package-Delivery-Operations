@@ -134,7 +134,7 @@ The main objective is to:
 
 ##  Authors
 
- * **Ahmad karmi
+ * **Ahmad karmi**
  * **Course:** Artificial Intelligence — ENCS3340
  * **Institution:** Birzeit University
 
